@@ -101,7 +101,7 @@ social-media-performance-analysis/
 
 ## **Demo Video**
 
-Watch the project demo video on [YouTube](<your-demo-video-link>).
+Watch the project demo video on [YouTube](https://youtu.be/UYSPX878GzM).
 
 ---
 
@@ -109,13 +109,13 @@ Watch the project demo video on [YouTube](<your-demo-video-link>).
 
 - **Hackathon:** [Level Supermind Hackathon](https://www.findcoder.io/hackathons/SuperMind-Hackathon/67668c927a79c23209528177)
 - **GitHub Repository:** [Link to Repository](https://github.com/arjunthilak05/social-media-performance-analysis.git)  
-- **Demo Video:** [Link to Demo Video](<your-demo-video-link>)  
+- **Demo Video:** [Link to Demo Video](https://youtu.be/UYSPX878GzM)  
 
 ---
 
 ## **Contributors**
 
-- **R Arjun Thilak ** – *Developer*
+- **Arjun Thilak , Priyanka , Ananth , Deepak Patro , Tahir ** 
 
 ---
 
