@@ -92,7 +92,9 @@ social-media-performance-analysis/
 ├── requirements.txt         # Python dependencies
 ├── app.py              # Main script to execute Langflow workflow
 ├── socialflow.json  # Langflow JSON workflow file
-└── /Users/mac/langflow_project/templates/dashboard.html   # HTML
+└── dashboard.html
+└── analytics.html
+└── socialmediadummy.csv 
 ```
 
 ---
