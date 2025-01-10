@@ -47,7 +47,7 @@ This project is part of the **Pre-Hackathon Assignment** for the **Level Supermi
 ### **Step 1: Clone the Repository**
 
 ```bash
-git clone https://github.com/<your-username>/social-media-performance-analysis.git
+git clone https://github.com/arjunthilak05/social-media-performance-analysis.git
 cd social-media-performance-analysis
 ```
 
@@ -90,9 +90,9 @@ The **meta/llama-3.1-405b-instruct** model may produce outputs that are inaccura
 social-media-performance-analysis/
 ├── README.md                # Project documentation
 ├── requirements.txt         # Python dependencies
-├── main.py              # Main script to execute Langflow workflow
+├── app.py              # Main script to execute Langflow workflow
 ├── socialflow.json  # Langflow JSON workflow file
-└── .gitignore               # Files to ignore in the repo
+└── /Users/mac/langflow_project/templates/dashboard.html   # HTML
 ```
 
 ---
@@ -105,16 +105,15 @@ Watch the project demo video on [YouTube](<your-demo-video-link>).
 
 ## **Submission Details**
 
-- **Hackathon:** [Level Supermind Hackathon](https://www.findcoder.io/hackathons/SuperMind-Hackathon/67668c927a79c23209528177)  
-- **Submission Deadline:** January 8th, 2025  
-- **GitHub Repository:** [Link to Repository](<your-repository-link>)  
+- **Hackathon:** [Level Supermind Hackathon](https://www.findcoder.io/hackathons/SuperMind-Hackathon/67668c927a79c23209528177)
+- **GitHub Repository:** [Link to Repository](https://github.com/arjunthilak05/social-media-performance-analysis.git)  
 - **Demo Video:** [Link to Demo Video](<your-demo-video-link>)  
 
 ---
 
 ## **Contributors**
 
-- **[Your Name]** – *Developer*
+- **R Arjun Thilak ** – *Developer*
 
 ---
 
