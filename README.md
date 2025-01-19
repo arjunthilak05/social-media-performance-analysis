@@ -1,13 +1,7 @@
 # **Social Media Performance Analysis**
 
 <p align="center">
-    <table>
-        <tr>
-            <td align="center">
-                <img src="https://drive.google.com/uc?id=1bqND2ZuW-eyJtVjGrOad0DR2UrrFVPVm" alt="Quantum Animation" width="300">
-            </td>
-        </tr>
-    </table>
+    <img src="https://drive.google.com/uc?id=1bqND2ZuW-eyJtVjGrOad0DR2UrrFVPVm" alt="Quantum Animation" width="100%">
 </p>
 
 This project is part of the **Pre-Hackathon Assignment** for the **Level Supermind Hackathon**. The objective is to develop a basic analytics module using **Langflow**, **DataStax Astra DB**, and the **meta/llama-3.1-405b-instruct** LLM to analyze social media engagement data from mock accounts.
